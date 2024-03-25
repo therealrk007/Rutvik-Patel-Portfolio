@@ -955,8 +955,18 @@ section {
 }
 
 /* Darker background on mouse-over */
+.btn {
+  background-color: RoyalBlue;
+  border: 1px solid royalblue;
+  border-radius: 2rem;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+  
+}
 .btn:hover {
   background-color: RoyalBlue;
+  border: 1px solid royalblue;
+  border-radius: 2rem;
 }
 
 .button {
