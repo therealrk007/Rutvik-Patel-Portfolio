@@ -961,12 +961,14 @@ section {
   border-radius: 2rem;
   margin: 10px 10px 10px 10px;
   text-align: center;
+  transition: all 0.9s;
   
 }
 .btn:hover {
   background-color: RoyalBlue;
   border: 1px solid royalblue;
   border-radius: 2rem;
+  transition: all 0.9s;
 }
 
 .button {
